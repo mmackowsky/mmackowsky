@@ -4,7 +4,7 @@ Hi 👋 My name is Mikołaj Maćkowski
 Python Developer
 ----------------
 
-I'm a Python developer with over 2 years of experience, passionate about writing clean, efficient, and scalable code. I love learning new technologies, tackling challenging problems, and continuously improving my skills.  
+I'm a Python developer with over 3 years of experience, passionate about writing clean, efficient, and scalable code. I love learning new technologies, tackling challenging problems, and continuously improving my skills.  
   
 💡 What drives me? Exploring new frameworks and tools in the Python ecosystem  
 🐍 Solving complex problems with elegant solutions  
