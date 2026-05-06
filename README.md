@@ -45,19 +45,6 @@ I'm a backend-focused Python developer who genuinely enjoys the craft — whethe
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Mikołaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmackowsky&show_icons=true&theme=dark&hide_border=true&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmackowsky&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 
