@@ -2,7 +2,7 @@
 
 # Hey there, I'm Mikołaj 👋
 
-**Python Developer · Backend Enthusiast · Open Source Advocate**
+**Python Developer · Backend · AI Enthusiast**
 
 *3+ years of turning complex problems into clean, scalable solutions*
 
